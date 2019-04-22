@@ -3,7 +3,7 @@
 ! Version: 006
 ! Last modified: 22 Apr 2019 13:07 GMT+7
 ! Expires: 1 days
-! Homepage: https://github.com/ompujang/Easylist-TH-By.arm
+! Homepage: https://github.com/ompujang/
 ! License: https://github.com/ompujang/EasyList-By.Arm/blob/master/LICENSE
 ! Support: https://github.com/ompujang
 !--------------------------------------------------
