@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: EasyList By.Arm
-! Version: 201922041843
+! Version: 201922041847
 ! Last modified: 22 Apr 2019 18:43 GMT+7
 ! Expires: 1 days
 ! Homepage: https://github.com/ompujang/
@@ -53,6 +53,3 @@ duckload.ws###ad_global_below_navbar
 facebook.com##.__x9._g-q._7g2n
 facebook.com##._6zu4._6-ry.clearfix
 !--------------------------------------------------
-
-
-
