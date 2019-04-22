@@ -37,9 +37,17 @@ http://3.bp.blogspot.com/-Yhiy7rPdjbY/VW7L6Am3XrI/AAAAAAAOsZs/XdnoWsfgjgY/s0/bgn
 lnwmanga.com###bvr-adp-153342
 lnwmanga.com###main-ads1-sponsor
 bugaboo.tv##.survey-area
+lnwmanga.com###divAdsBg
 !--------------------------------------------------
 
 ! hdarkzone.com
 hdarkzone.com###p9fe
+!--------------------------------------------------
+
+! duckload.ws
+duckload.ws###ad_global_below_navbar
+!--------------------------------------------------
+
+
 
 
