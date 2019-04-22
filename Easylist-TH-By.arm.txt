@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: EasyList By.Arm
-! Version: 005
+! Version: 006
 ! Last modified: 22 Apr 2019 13:07 GMT+7
 ! Expires: 1 days
 ! Homepage: https://github.com/ompujang/Easylist-TH-By.arm.txt
@@ -40,5 +40,4 @@ bugaboo.tv##.survey-area
 !--------------------------------------------------
 
 ! hdarkzone.com
-
 hdarkzone.com###p9fe
