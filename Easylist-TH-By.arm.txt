@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList By.Arm
-! Version: 201904230945
-! Last modified: 23 Apr 2019 09:44 GMT+7
+! Version: 201904252057
+! Last modified: 25 Apr 2019 20:44 GMT+7
 ! Expires: 1 days
 ! Homepage: https://github.com/ompujang/
 ! License: https://github.com/ompujang/EasyList-By.Arm/blob/master/LICENSE
@@ -41,3 +41,18 @@ duckload.ws###ad_global_below_navbar
 facebook.com##.__x9._g-q._7g2n
 facebook.com##._6zu4._6-ry.clearfix
 
+!-----------------------my.dek-d-----------------------!
+my.dek-d.com##.post-wrapper
+my.dek-d.com##.comment-container
+dek-d.com##.main-title-h2.orange
+dek-d.com##.newbie-list-wrapper
+dek-d.com###writer-pinned-board
+dek-d.com###writer-white-house
+dek-d.com###writer-wm-rec
+dek-d.com###writer-u
+dek-d.com##.banner-app-wrapper
+dek-d.com###writer-second-aside
+dek-d.com##.pull-right
+dek-d.com###writer-talk
+dek-d.com##.pull-left.allow-wm-style
+||www0.dek-d.com/assets/images/20160808_socialproof.png
