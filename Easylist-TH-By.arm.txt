@@ -1,11 +1,13 @@
 [Adblock Plus 2.0]
-! Title: EasyList By.Arm
-! Version: 07052019
-! Last modified: 07 May  2019 14:08 GMT+7
+! Title: blacklist favorite websites
+! Version: 14052019
+! Last modified: 14 May  2019 08:08 GMT+7
 ! Expires: 1 days
 ! Homepage: https://github.com/ompujang/
 ! License: https://github.com/ompujang/EasyList-By.Arm/blob/master/LICENSE
 ! Support: https://github.com/ompujang
+#This blacklist is created for use with my favorite websites.
+#The purpose is to update in many devices.
 
 !-----------------------General advert blocking filters-----------------------!
 ||cdn.innity.net
