@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block ADS Favorite Websites
-! Version: 14052019
-! Last modified: 14 May  2019 10:08 GMT+7
+! Version: 06062019
+! Last modified: 6 Jun  2019 10:08 GMT+7
 ! Expires: 1 days
 ! Homepage: https://github.com/ompujang/
 ! License: https://github.com/ompujang/block-ads-favorite-websites/blob/master/LICENSE
@@ -72,3 +72,21 @@ anime-sugoi.com##.col-md-8
 ||3.bp.blogspot.com/-G_xJWMIvHBA/XNPnt6xPpyI/AAAAAAAABxc/QXoDtnqipuM-eA0zxDNnQDBYCSbEGDYEgCLcBGAs/s1600/1.gif
 ||3.bp.blogspot.com/-0gK27PGMzZY/XJi4hXfSX5I/AAAAAAAABsc/tLN_l7ih_xUNZZL5s3E08ik8PuyMordswCLcBGAs/s1600/1.gif
 ||2.bp.blogspot.com/-x37_oA5UlV8/XN6DB4jjcTI/AAAAAAABEnc/zHmzelxKgTIcY5ueeH8GV3dVjoLrT-6ggCLcBGAs/s0/LFG3lq7.gif
+axeload.com##.swal2-modal.adBlockDetectModal.swal2-show
+axeload.com##.swal2-container.swal2-fade.swal2-in
+comerror.com##.modal-backdrop.fade.in
+comerror.com##div[style="font-size:20px; color:#27aae1; text-decoration:none; padding:2px; padding-top:5px;padding-left:8px;padding-right:8px;"]
+comerror.com##.modal-header
+comerror.com###ownads
+comerror.com##.modal.fade.in
+fearlessrevolution.com##.cc-window.cc-banner.cc-type-info.cc-theme-classic.cc-bottom.cc-color-override--1687565279
+vg247.com##.sp_message_frame1559140647197
+vg247.com###sp_message_id1559140647198
+vg247.com##.sp_message_container1559140647197
+vg247.com##.sp_message_frame1559140714444
+vg247.com##.sp_message_frame1559140735458
+vg247.com##.sp_message
+software.thaiware.com###MainPopup
+kingsmanga.net##.col-md-12.text-center
+kingsmanga.net##.col-xs-12.text-center
+||1.bp.blogspot.com/-bIZc9XVVm0Q/XPYQkwELtoI/AAAAAAABXeg/F5sUQJcozD8OucSxsqbNS-CfNngO5PmSwCLcBGAs/s0/OH_pinkpink_728x90.jpg
