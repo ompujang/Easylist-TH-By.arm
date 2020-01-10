@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Block ADS Favorite Websites
-! Version: 06192019
-! Last modified: 19 Jun  2019 9:08 GMT+7
-! Expires: 1 days
+! Version: 011
+! Last modified: 10/01/2020 9:08 GMT+7
+! Expires: 3 days
 ! Homepage: https://github.com/ompujang/
 ! License: https://github.com/ompujang/block-ads-favorite-websites/blob/master/LICENSE
 ! Support: https://github.com/ompujang
@@ -16,112 +16,41 @@
 ||gamma.cachefly.net
 ||img.beaverads.com
 
-!-----------------------kingmanga.net-----------------------!
-kingsmanga.net##.col-md-12.text-center.padding-top-15.new-widget-width
-kingsmanga.net##.col-md-12.text-center
-kingsmanga.net##.col-xs-12.text-center
+! 10/1/2563 21:17:51 https://www.kingsmanga.net/
+||images2.imgbox.com/2d/e6/Va9sXfkK_o.jpg
 
-!-----------------------niceoppai.nett-----------------------!
-niceoppai.net##.bvr-list
-niceoppai.net##.bvr-widget.bvr-widget--1000282
-niceoppai.net##.thumbBlock
-niceoppai.net##.videoCube_aspect
-niceoppai.net##.thumbBlock
-http://3.bp.blogspot.com/-Yhiy7rPdjbY/VW7L6Am3XrI/AAAAAAAOsZs/XdnoWsfgjgY/s0/bgniceoppaitrue.png
+! 10/1/2563 21:17:54 https://www.kingsmanga.net/
+||images2.imgbox.com/bf/34/3Na4lxyp_o.gif
 
-!-----------------------lnwmanga.com-----------------------!
-lnwmanga.com###bvr-adp-153342
-lnwmanga.com###main-ads1-sponsor
-bugaboo.tv##.survey-area
-lnwmanga.com###divAdsBg
-www.lnwmanga.com###divAdsBg
-||www.lnwmanga.com/images/banner/databet88.png$image
-||www.lnwmanga.com/images/banner/talerunner.png$image
-||www.lnwmanga.com/images/banner/tr.png$image
-||www.lnwmanga.com/images/banner/databet88.png$image
-||www.lnwmanga.com/images/banner/yulgang3.jpg$image
-||www.lnwmanga.com/images/banner/tr2.jpg$image
+! 10/1/2563 21:18:12 https://www.kingsmanga.net/
+www.kingsmanga.net##body > div:nth-of-type(3)
 
-www.lnwmanga.com##div#main-ads1-sponsor.row-fluid:nth-of-type(3)
+! 10/1/2563 21:18:25 https://www.kingsmanga.net/
+www.kingsmanga.net##iframe
 
+! 10/1/2563 21:18:35 https://www.kingsmanga.net/
+www.kingsmanga.net###wrapper > .new-kingsmanga-section > .new-widget-width.padding-top-15.text-center.col-md-12
 
-!-----------------------hdarkzone.com-----------------------!
-hdarkzone.com###p9fe
+! 10/1/2563 21:22:36 http://1.bp.blogspot.com/-tiGDYaW_8Q4/XQ5nG-oOjkI/AAAAAAAAAlg/OdPIeQTB_d43NhVJT3RyBGj9-hsBcnHRACLcBGAs/s0/bgniceoppaitrue.png
+||1.bp.blogspot.com/-tiGDYaW_8Q4/XQ5nG-oOjkI/AAAAAAAAAlg/OdPIeQTB_d43NhVJT3RyBGj9-hsBcnHRACLcBGAs/s0/bgniceoppaitrue.png
 
-!-----------------------duckload.ws-----------------------!
-duckload.ws###ad_global_below_navbar
+! 10/1/2563 21:23:01 http://www.niceoppai.net/
+www.niceoppai.net###text-90 > .con
 
-!-----------------------facebook.com-----------------------!
-facebook.com##.__x9._g-q._7g2n
-facebook.com##._6zu4._6-ry.clearfix
-||facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSIAMBITFANPAGE%2Fposts%2F2857610127612522&width=500
-href=https%3A%2F%2Fwww.facebook.com%2FSIAMBITFANPAGE%2Fposts%2F2877395358967332&width=500
+! 10/1/2563 21:23:14 http://www.niceoppai.net/
+www.niceoppai.net###text-33 > .textwidget > center
 
-!-----------------------my.dek-d-----------------------!
-my.dek-d.com##.post-wrapper
-my.dek-d.com##.comment-container
-dek-d.com##.main-title-h2.orange
-dek-d.com##.newbie-list-wrapper
-dek-d.com###writer-pinned-board
-dek-d.com###writer-white-house
-dek-d.com###writer-wm-rec
-dek-d.com###writer-u
-dek-d.com##.banner-app-wrapper
-dek-d.com###writer-second-aside
-dek-d.com##.pull-right
-dek-d.com###writer-talk
-dek-d.com##.pull-left.allow-wm-style
-||www0.dek-d.com/assets/images/20160808_socialproof.png
+! 10/1/2563 21:23:31 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
+||1.bp.blogspot.com/-cTh6S_7iW9A/XeybFFEQd3I/AAAAAAAABa0/Kq_605EQHaITk-mVflcVq6GPQ1znNXAAwCLcBGAsYHQ/s0/4400599912111144960_n.gif
 
-!-----------------------stfly-----------------------!
-stfly.io##.banner-inner
-stfly.io##.copyright-container
-stfly.io##.text-left
-cvqgnkeqme.com
-therneserutybin.info
-resorsedroblet.pro
-d3t5ngjixpjdho.cloudfront.net
-freshmed.net
-parronnotandone.info
-!-----------------------nimo-----------------------!
-nimo.tv##.nimo-modal-body
-nimo.tv##.nimo-modal-wrap.nimo-modal-centered
-nimo.tv##.nimo-modal-mask
+! 10/1/2563 21:23:34 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
+||1.bp.blogspot.com/-bFutTO0wwAE/XeowZofwcMI/AAAAAAAABZA/_DSeAClpklY_QrerU-VGCXFfsAuq12zbgCLcBGAsYHQ/s0/930134885338972160_n.gif
 
-garena.live##.bubble
-garena.live##.npcl
-neko-miku.com###ne685
-neko-miku.com###ko159
-anime-sugoi.com##.col-md-8
+! 10/1/2563 21:23:37 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
+||1.bp.blogspot.com/-XqQTONxi6Xo/XcFQ_yyN02I/AAAAAAAAAnE/x54HGDkAqiErdwKjBPHpHqW4W15vP_6zwCLcBGAsYHQ/s0/70423170_2447443078832114.gif
 
-axeload.com##.swal2-modal.adBlockDetectModal.swal2-show
-axeload.com##.swal2-container.swal2-fade.swal2-in
-comerror.com##.modal-backdrop.fade.in
-comerror.com##div[style="font-size:20px; color:#27aae1; text-decoration:none; padding:2px; padding-top:5px;padding-left:8px;padding-right:8px;"]
-comerror.com##.modal-header
-comerror.com###ownads
-comerror.com##.modal.fade.in
-fearlessrevolution.com##.cc-window.cc-banner.cc-type-info.cc-theme-classic.cc-bottom.cc-color-override--1687565279
-vg247.com##.sp_message_frame1559140647197
-vg247.com###sp_message_id1559140647198
-vg247.com##.sp_message_container1559140647197
-vg247.com##.sp_message_frame1559140714444
-vg247.com##.sp_message_frame1559140735458
-vg247.com##.sp_message
-software.thaiware.com###MainPopup
+! 10/1/2563 21:23:40 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
+||1.bp.blogspot.com/--mziGwLFrOs/XeoOjBV8VVI/AAAAAAAABXQ/ezuoKvSBSUQm_aBCUgo5gfcFB17u0BZ5gCLcBGAsYHQ/s0/72solkwdodosl90.gif
 
-
-||1.bp.blogspot.com/-bIZc9XVVm0Q/XPYQkwELtoI/AAAAAAABXeg/F5sUQJcozD8OucSxsqbNS-CfNngO5PmSwCLcBGAs/s0/OH_pinkpink_728x90.jpg
-||3.bp.blogspot.com/-7woSunm3HNA/XIIkjK1FzsI/AAAAAAAABqE/gQzv732_PgUp3hTLwdAQIAIBnDIOaPaDwCLcBGAs/s1600/2.gif
-||3.bp.blogspot.com/-G_xJWMIvHBA/XNPnt6xPpyI/AAAAAAAABxc/QXoDtnqipuM-eA0zxDNnQDBYCSbEGDYEgCLcBGAs/s1600/1.gif
-||3.bp.blogspot.com/-0gK27PGMzZY/XJi4hXfSX5I/AAAAAAAABsc/tLN_l7ih_xUNZZL5s3E08ik8PuyMordswCLcBGAs/s1600/1.gif
-||2.bp.blogspot.com/-x37_oA5UlV8/XN6DB4jjcTI/AAAAAAABEnc/zHmzelxKgTIcY5ueeH8GV3dVjoLrT-6ggCLcBGAs/s0/LFG3lq7.gif
-||3.bp.blogspot.com/-ZGzToQ0XsMo/XOZ5fKkLcBI/AAAAAAAAB0c/LKbyoGuRSW40FIjYe4htdBvy6Bvgp4jMgCLcBGAs/s1600/1.gif
-||2.bp.blogspot.com/-NWNYdoz79lw/XPP6jdWv3CI/AAAAAAAAB2s/LCHBWNi6vb0CCoJ0KwpXU_be6rrV4LOnwCLcBGAs/s1600/1.gif
-||i.imgur.com/8tSruWI.png
-||2.bp.blogspot.com/-qygtN4bX_LI/XP5lvK65zXI/AAAAAAAABtY/_8e45rk-EEQDHOywvhD5FKLY_wtK0OhdgCK4BGAYYCw/w1600/f23012945f2f285f964ced8f817b39d0.jpg
-
-anime-sugoi.com###bt-ads
-anime-sugoi.com###adtruefr-11126-219
-anime-sugoi.com##iframe[src="about:blank"]
-quickpconline.com##.sidebar-content
+! 10/1/2563 21:23:57 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
+www.niceoppai.net###sct_top_banner > .textwidget > center
