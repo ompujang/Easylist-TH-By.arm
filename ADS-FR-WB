@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block ADS Favorite Websites
 ! Version: 011
-! Last modified: 10/01/2020 9:08 GMT+7
+! Last modified: 05/03/2020 9:08 GMT+7
 ! Expires: 3 days
 ! Homepage: https://github.com/ompujang/
 ! License: https://github.com/ompujang/block-ads-favorite-websites/blob/master/LICENSE
@@ -17,131 +17,53 @@
 ||img.beaverads.com
 
 ! 10/1/2563 21:17:51 https://www.kingsmanga.net/
+
 ||images2.imgbox.com/2d/e6/Va9sXfkK_o.jpg
-
-! 10/1/2563 21:17:54 https://www.kingsmanga.net/
 ||images2.imgbox.com/bf/34/3Na4lxyp_o.gif
-
-! 10/1/2563 21:18:12 https://www.kingsmanga.net/
 www.kingsmanga.net##body > div:nth-of-type(3)
-
-! 10/1/2563 21:18:25 https://www.kingsmanga.net/
 www.kingsmanga.net##iframe
-
-! 10/1/2563 21:18:35 https://www.kingsmanga.net/
 www.kingsmanga.net###wrapper > .new-kingsmanga-section > .new-widget-width.padding-top-15.text-center.col-md-12
-
-! 10/1/2563 21:22:36 http://1.bp.blogspot.com/-tiGDYaW_8Q4/XQ5nG-oOjkI/AAAAAAAAAlg/OdPIeQTB_d43NhVJT3RyBGj9-hsBcnHRACLcBGAs/s0/bgniceoppaitrue.png
 ||1.bp.blogspot.com/-tiGDYaW_8Q4/XQ5nG-oOjkI/AAAAAAAAAlg/OdPIeQTB_d43NhVJT3RyBGj9-hsBcnHRACLcBGAs/s0/bgniceoppaitrue.png
-
+!******************************************************************
 ! 10/1/2563 21:23:01 http://www.niceoppai.net/
 www.niceoppai.net###text-90 > .con
-
-! 10/1/2563 21:23:14 http://www.niceoppai.net/
 www.niceoppai.net###text-33 > .textwidget > center
-
-! 10/1/2563 21:23:31 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
 ||1.bp.blogspot.com/-cTh6S_7iW9A/XeybFFEQd3I/AAAAAAAABa0/Kq_605EQHaITk-mVflcVq6GPQ1znNXAAwCLcBGAsYHQ/s0/4400599912111144960_n.gif
-
-! 10/1/2563 21:23:34 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
 ||1.bp.blogspot.com/-bFutTO0wwAE/XeowZofwcMI/AAAAAAAABZA/_DSeAClpklY_QrerU-VGCXFfsAuq12zbgCLcBGAsYHQ/s0/930134885338972160_n.gif
-
-! 10/1/2563 21:23:37 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
 ||1.bp.blogspot.com/-XqQTONxi6Xo/XcFQ_yyN02I/AAAAAAAAAnE/x54HGDkAqiErdwKjBPHpHqW4W15vP_6zwCLcBGAsYHQ/s0/70423170_2447443078832114.gif
-
-! 10/1/2563 21:23:40 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
 ||1.bp.blogspot.com/--mziGwLFrOs/XeoOjBV8VVI/AAAAAAAABXQ/ezuoKvSBSUQm_aBCUgo5gfcFB17u0BZ5gCLcBGAsYHQ/s0/72solkwdodosl90.gif
-
-! 10/1/2563 21:23:57 http://www.niceoppai.net/Maou-ni-Natte-node-Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru/20.2/
 www.niceoppai.net###sct_top_banner > .textwidget > center
-
-! 10/1/2563 21:57:57 http://www.niceoppai.net/tsuyokute_new_saga/12/
 www.niceoppai.net###_7cve8b3 > div > ._srcwyoc._y9hgi5 > ._kbvpa8
-
-! 10/1/2563 21:58:07 http://www.niceoppai.net/tsuyokute_new_saga/12/
 www.niceoppai.net###sct_footer_banner
+||1.bp.blogspot.com/-YgEuc6IIN4Q/XmB3xX3PoyI/AAAAAAAACmw/cPygs9hmIvwVksZE8VLhqw7dwH-szJLegCLcBGAsYHQ/s0/ssdkos0o2oskl.gif$image
+!******************************************************************
+
 
 ! 11/1/2563 https://novel-ss1pdf.blogspot.com
 ||2.bp.blogspot.com/-_5-O-R47CIo/XR2SyhogYhI/AAAAAAAABw0/mWlBKFy0m7YyxSc50DLCYeTKE1bSWw9KgCK4BGAYYCw/w1600/f23012945f2f285f964ced8f817b39d0.jpg$image
 ||2.bp.blogspot.com/-_5-O-R47CIo/XR2SyhogYhI/AAAAAAAABw0/mWlBKFy0m7YyxSc50DLCYeTKE1bSWw9KgCK4BGAYYCw/w1600/f23012945f2f285f964ced8f817b39d0.jpg$image
-
+!******************************************************************
 
 ! 11/1/2563 https://www.siambit.me
 ||www.siambit.me/pic/55slotnn.png$image
-
-! 10/1/2563 21:57:57 http://www.niceoppai.net/tsuyokute_new_saga/12/
-www.niceoppai.net###_7cve8b3 > div > ._srcwyoc._y9hgi5 > ._kbvpa8
-
-! 10/1/2563 21:58:07 http://www.niceoppai.net/tsuyokute_new_saga/12/
-www.niceoppai.net###sct_footer_banner
-
-! 12/1/2563 14:04:49 https://www.siambit.me/details.php?id=1510641&hashinfo=1279830
 ||www.siambit.me/pic/55slotnn.png
+!******************************************************************
+
+
 
 ! 12/1/2563 19:07:22 https://ckk.ai/fZjIjTRu
+
 ||ampallall.site/tsk/2D5GQqs9y5RLF0iox5WdFamKlL4bAKYt*fIaqPFVjpobjOLQCv7QdiIAZ3wJ7LJcv42mdkNWR3MfQmz1ILRDg2AlAV1Eb0_AqGa2wFtkycKwyZFZUEGpqWG2_qOSk4YOAcUY14_J5GIMhsfnRbKE8eqKKxdARscwzpuPSGlCWSdjUpfbLdwGG7EF1iqmBEkLZPlJ_pDF8NlvELm2y*Yo7h2yVhiN5kJZKuZaAyrbl275T25gIx0*sG3Aj_3IdGMFwCFSHUr4Z2XPYyIVX*ZQpmjUXse*IwkSbqELpGPlAZA
-
-! 12/1/2563 19:07:31 https://ckk.ai/fZjIjTRu
 ckk.ai###glx-14504-container > .glx-teaser[href^="//trahes.site/ip1C3nqg8VCvZ/12337"]:nth-of-type(1)
-
-! 12/1/2563 19:07:34 https://ckk.ai/fZjIjTRu
 ||ampallall.site/tsk/6i7CHwC636MsKEXk5xsS7O*awTfpd3EjGi92OHX3jz04i2CZhesHV2SsPpy1RDnsd3LvIfErZNhEf0OX4gtMGppLsdA5qVPDj4sp1zANvkxCpSno3XDMuSVjbojATxJxACOHcFlEvmQ4ZKcQo9YmGBlYYU1jK*58_t8aXsT7pCD26oMmj0KN9KBZ3rDQLuYKfB4EvJLEFBPgY1ugd8T_kBt68lYaY6yuGzDnQ9zxq0A
-
-! 12/1/2563 19:07:46 https://ckk.ai/fZjIjTRu
 ||ampallall.site/tsk/6i7CHwC636MsKEXk5xsS7Ksro30XnlJZLOLTp1z50V5x6vhs1ny0DNlHMaNAWPSw6_v7M9CrdeHDMI0YhxPzPtcXDDong52s04aHHDjesa0VXU6LOQMrl_cQQ4EVBnhfSkHV3O1hNQHNJikCB*WgSX2voO5oSiBHInJyAqPQKAGY0HTpj3p39vA9Qldy9A51zB_63IEgxi8bomYC6X2vGBMCBii1*i5Cwa8g9IntDTE
-
-! 12/1/2563 19:07:50 https://ckk.ai/fZjIjTRu
 ckk.ai###glx-14504-container
-
-! 12/1/2563 19:07:57 https://ckk.ai/fZjIjTRu
 ||ckk.ai/webroot/modern_theme/img/dwndbnr1.png
-
-! 12/1/2563 19:08:07 https://ckk.ai/fZjIjTRu
 ||ckk.ai/webroot/modern_theme/img/dwndbnr2.png
-
-! 12/1/2563 19:08:39 https://ckk.ai/fZjIjTRu
 ckk.ai##.container > .row > .col-md-offset-1.col-md-10 > .text-left
-
-! 12/1/2563 19:08:46 https://ckk.ai/fZjIjTRu
 ckk.ai###gqhwKHE0cdL
-
-! 12/1/2563 19:09:05 https://ckk.ai/fZjIjTRu
 ||ckk.ai/webroot/modern_theme/img/dwndbnr4.png
+!******************************************************************
 
-! 12/1/2563 22:01:38 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(6)
-
-! 12/1/2563 22:01:50 http://www.coolism.net/index.php
-||www.coolism.net/banners/images/banner_web/1-1577787522.jpg?1578841282
-
-! 12/1/2563 22:01:59 http://www.coolism.net/index.php
-||www.coolism.net/images/gallery_file/OUTING%2014LUANGPRABANG/3rd.jpg
-
-! 12/1/2563 22:02:05 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(5)
-
-! 12/1/2563 22:02:09 http://www.coolism.net/index.php
-||www.coolism.net/banners/images/banner_web/1-1577857888.jpg
-
-! 12/1/2563 22:02:16 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(4)
-
-! 12/1/2563 22:02:20 http://www.coolism.net/index.php
-||www.coolism.net/banners/images/banner_web/1-1578498683.jpg?1578841282
-
-! 12/1/2563 22:02:30 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(3) > .nopadding.col-xs-12 > .owl-drag.owl-loaded.banner_event.owl-theme.owl-carousel > .owl-stage-outer > .owl-stage
-
-! 12/1/2563 22:02:55 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(2) > .font_menu_top.text-right
-
-! 12/1/2563 22:03:05 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(1)
-
-! 12/1/2563 22:03:13 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(2) > .nopadding.col-xs-12 > .owl-drag.owl-loaded.banner_event.owl-theme.owl-carousel > .owl-nav > .owl-next
-
-! 12/1/2563 22:03:20 http://www.coolism.net/index.php
-www.coolism.net##.container-fluid > .nopadding.row > .col-xs-9 > .row:nth-of-type(2) > .nopadding.col-xs-12 > .owl-drag.owl-loaded.banner_event.owl-theme.owl-carousel > .owl-nav > .owl-prev
 
 ||2.bp.blogspot.com/-_5-O-R47CIo/XR2SyhogYhI/AAAAAAAABw0/mWlBKFy0m7YyxSc50DLCYeTKE1bSWw9KgCK4BGAYYCw/w1200/f23012945f2f285f964ced8f817b39d0.jpg
