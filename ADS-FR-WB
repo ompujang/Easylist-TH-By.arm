@@ -93,3 +93,35 @@ stfly.me###_hevs2tr
 novel-lucky.com###fixedban
 novel-lucky.com##.td-header-sp-recs
 stfly.me###p_3381275
+stfly.me##.copyright-container
+stfly.me###bs-example-navbar-collapse-1
+||shrtfly.com/header.jpg$image
+stfly.me###mainNav > .container
+stfly.me###mainNav
+stfly.me##div.text-left:nth-of-type(2)
+stfly.me##center > p
+
+! 20/7/2563 https://smoner.com
+smoner.com##.eww
+smoner.com##.copyright-container
+smoner.com###bs-example-navbar-collapse-1
+||smoner.com/image/background.jpg$image
+smoner.com###mainNav > .container
+smoner.com###mainNav
+
+! 20/7/2563 https://shrinkme.io
+||shrinkme.io/header9.webp$image
+shrinkme.io###mainNav
+shrinkme.io##.text-left
+shrinkme.io##.copyright-container
+shrinkme.io##center
+
+! 20/7/2563 https://fcc.lc
+fcc.lc##p
+fcc.lc##.adq
+||fc.lc/dwn.html$subdocument
+fcc.lc##h2.text-center
+fcc.lc##.col-sm-6
+fcc.lc##.col-sm-4
+fcc.lc##.text-light
+||i.imgur.com/H0LMgQx.png$image
