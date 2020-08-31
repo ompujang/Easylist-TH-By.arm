@@ -83,6 +83,7 @@ writer.dek-d.com##.-social-animate.-sticky.-desktop.comment-post-wrapper
 ! 6/8/2563 https://novel-lucky.com
 novel-lucky.com##.td_block_template_1.tdi_1_8bd.td-a-rec-id-header.td-a-rec
 novel-lucky.com###fixedban
+novel-lucky.com##.td-header-rec-wrap
 
 ! 19/6/2563 https://stfly.me
 stfly.me##body > div:nth-of-type(3) > div:nth-of-type(1)
@@ -100,6 +101,7 @@ stfly.me###mainNav > .container
 stfly.me###mainNav
 stfly.me##div.text-left:nth-of-type(2)
 stfly.me##center > p
+stfly.me##b
 
 ! 20/7/2563 https://smoner.com
 smoner.com##.eww
@@ -125,3 +127,14 @@ fcc.lc##.col-sm-6
 fcc.lc##.col-sm-4
 fcc.lc##.text-light
 ||i.imgur.com/H0LMgQx.png$image
+
+
+
+! 2020-08-31 https://neo-novels.com
+neo-novels.com##.yfemwt > div
+neo-novels.com##.oli > div
+||chutsavy.net
+||a.exdynsrv.com
+||ads.exdynsrv.com
+
+
