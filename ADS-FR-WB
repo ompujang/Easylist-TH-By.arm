@@ -121,15 +121,6 @@ shrinkme.io##.text-left
 shrinkme.io##.copyright-container
 shrinkme.io##center
 
-! 20/7/2563 https://fcc.lc
-fcc.lc##p
-fcc.lc##.adq
-||fc.lc/dwn.html$subdocument
-fcc.lc##h2.text-center
-fcc.lc##.col-sm-6
-fcc.lc##.col-sm-4
-fcc.lc##.text-light
-||i.imgur.com/H0LMgQx.png$image
 
 
 ! 2020-08-31 https://neo-novels.com
@@ -166,15 +157,21 @@ bolssc.com###mainNav
 bolssc.com##.link
 
 
-! 2020-09-08 https://fcdot.lc
-fcdot.lc##p
-fcdot.lc##p
-fcdot.lc###container
-
 
 ! 2020-09-13 https://tii.ai
 tii.ai##.text-left
 tii.ai##.copyright-container
 ||shrinkearn.com/webroot/modern_theme/img/NewBackground.jpeg$image
 tii.ai###mainNav
+
+! 2020-09-14 https://fcdot.lc
+fcc.lc##h2.text-center
+fcc.lc##.col-sm-6
+fcc.lc##.col-sm-4
+||i.imgur.com/H0LMgQx.png$image
+fcc.lc##.text-light
+! 2020-09-14 https://fcdot.lc
+fcdot.lc##p
+fcdot.lc##.col-sm-4
+fcdot.lc##li
 
