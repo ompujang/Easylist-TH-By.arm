@@ -113,7 +113,23 @@ shrinke.me###mainNav > .container
 shrinke.me###mainNav
 shrinke.me##.copyright-container
 shrinke.me##center
+shrinke.me##.container-fluid
+shrinke.me###cookie-pop
 
 ! 2020-08-30 https://iir.ai
 iir.ai##.text-left
 iir.ai##.copyright-container
+
+
+!!!!!!!!   https://bolssc.com
+bolssc.com##footer
+bolssc.com###mainNav
+bolssc.com##.link
+
+! 2020-09-15 https://mediumarticles.com
+mediumarticles.com##.text-center.col-md-12.payments
+mediumarticles.com##footer
+mediumarticles.com##.navbar-brand > .logo
+mediumarticles.com###navbarsExampleDefault
+mediumarticles.com###mainNav > .container-fluid
+mediumarticles.com###mainNav
